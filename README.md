@@ -1,4 +1,4 @@
-#Decision Maths
+# Decision Maths
 
 After first coming across the topic in sixth form, *Decision Maths & Game Theory* became by favourite area of Mathematics.
 Unfortunately, there was never the option to specialise in this module during my final year of university.
